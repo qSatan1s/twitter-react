@@ -18,13 +18,11 @@
     flex: 1;
     margin-left: 20px;
     font-size: 20px;
-    outline: none;
     border: none;
 }
 
 .tweetBox__imageInput {
     border: none;
-    outline: none;
     padding: 10px;
 }
 
